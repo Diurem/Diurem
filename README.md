@@ -1,6 +1,6 @@
 # About Me
 
-My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passionate about leveraging data to improve business outcomes and drive innovation. In my free time, I enjoy travexling, reading, and experimenting with new coding frameworks.
+My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passionate about leveraging data to improve business outcomes and drive innovation. In my free time, I enjoy traveling, reading, and experimenting with new coding frameworks.
 
 ## My Stacks
 
