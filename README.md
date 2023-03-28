@@ -13,7 +13,7 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Frameworks Learned
+### Stacks Learned
 
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
