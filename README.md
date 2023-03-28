@@ -1,16 +1,32 @@
-### Hi there 👋
+# About Me
 
-<!--
-**Diurem/Diurem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passionate about leveraging data to improve business outcomes and drive innovation. In my free time, I enjoy travexling, reading, and experimenting with new coding frameworks.
 
-Here are some ideas to get you started:
+## My Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main Programming Languages
+
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frameworks Learned
+
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rocket](https://img.shields.io/badge/-Rocket-000000?style=flat-square&logo=rust&logoColor=white)
+![SlimPHP](https://img.shields.io/badge/-SlimPHP-000000?style=flat-square&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+## My Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+
+## Note:
+
+This is my new account. Not much active but will try to be better.
