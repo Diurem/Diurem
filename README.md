@@ -33,4 +33,16 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 
 ## Note:
 
-This is my new account. Not much active but will try to be better.
+This is my new account. 
+
+Not much active but will try to be better.
+
+This Account will just be random programs but eith no readmes what so ever.
+
+For employers. This is my seconnd account where i do my thing.
+
+For non coders. This is random and i wont be putting much time on this like my first account.
+
+For coders. I took off the twist of not putting tthe dependencies in the repos.
+
+I might start soon.
