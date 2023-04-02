@@ -48,5 +48,5 @@ For non coders. This is random and i wont be putting much time on this like my f
 
 For coders. I took off the twist of not putting tthe dependencies in the repos. 
 
-I might start soon.
+
 
