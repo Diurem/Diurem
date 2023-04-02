@@ -37,7 +37,7 @@ This is my new account.
 
 Not much active but will try to be better.
 
-This Account will just be random programs but eith no readmes what so ever.
+This Account will just be random programs but with no readmes what so ever.
 
 For all the readers. Go back to github.com/Mochimochi07 to see my first account.
 
