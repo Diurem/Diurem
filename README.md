@@ -6,6 +6,7 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 
 ### Main Programming Languages
 
+
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
