@@ -47,5 +47,6 @@ For employers. This is my seconnd account where i do my thing.
 For non coders. This is random and i wont be putting much time on this like my first account.
 
 For coders. I took off the twist of not putting tthe dependencies in the repos. 
+
 I might start soon.
 
