@@ -42,11 +42,4 @@ This Account will just be random programs but with no readmes what so ever.
 
 For all the readers. Go back to github.com/Mochimochi07 to see my first account.
 
-For employers. This is my seconnd account where i do my thing.
-
-For non coders. This is random and i wont be putting much time on this like my first account.
-
-For coders. I took off the twist of not putting tthe dependencies in the repos. 
-
-
-
+This is a Devops account by the way.
