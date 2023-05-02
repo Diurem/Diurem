@@ -27,6 +27,9 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+Azure DevOps. Account.
+
+
 
 ## My Stats
 
