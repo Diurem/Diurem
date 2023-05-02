@@ -28,6 +28,8 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 Azure DevOps. Account.
+AWS DevOps. Account.
+Google DevOps Account.
 
 
 
