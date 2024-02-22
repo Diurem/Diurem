@@ -20,7 +20,10 @@ My name is AJ, and I'm passionate about leveraging data to improve business outc
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white)
-
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23007ACC?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%2386CEEB?style=flat-square&logo=phpmyadmin&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23142039?style=flat-square&logo=mongodb&logoColor=white)
 ## My Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
