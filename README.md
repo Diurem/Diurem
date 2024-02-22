@@ -27,11 +27,6 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Azure DevOps. Account.
-AWS DevOps. Account.
-Google DevOps Account.
-
-
 
 ## My Stats
 
@@ -39,12 +34,4 @@ Google DevOps Account.
 
 ## Note:
 
-This is my new account. 
-
-Not much active but will try to be better.
-
-This Account will just be random programs but with no readmes what so ever.
-
-For all the readers. Go back to github.com/Mochimochi07 to see my first account.
-
-This is a Devops account by the way.
+To all the readers. My github.com/Mochimochi07 was for private purposes.
