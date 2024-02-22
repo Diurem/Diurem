@@ -10,7 +10,9 @@ My name is AJ, and I'm passionate about leveraging data to improve business outc
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 
 ### MAJAD STACKS
-
+![TreefrogC++](https://img.shields.io/badge/TreefrogC%2B%2B-%23983F7A?style=flat-square&logo=treefrog&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23007ACC?style=flat-square&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=flat-square&logo=go&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%2329A2E4?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23D35400?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0?style=flat-square&logo=seaborn&logoColor=white)
