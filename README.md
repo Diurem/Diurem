@@ -28,6 +28,14 @@ My name is AJ, and I'm passionate about leveraging data to improve business outc
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
 
+### About MAJAD
+
+My project, MAJAD, is more than just a technology; it's a vision for a brighter future where accessibility is no longer a barrier. Drawing on the knowledge of my elder teachers and fueled by years of extreme statistical exploration, I've created a unique solution that empowers the next generation, particularly those with disabilities, to unlock new possibilities in their lives. MAJAD isn't just about innovation; it's about building a world where everyone has the tools they need to thrive.
+
+### Contact me 
+
+Instagram:@dajd07
+
 ## Note:
 
 To all the readers. My github.com/Mochimochi07 was for private purposes.
