@@ -4,15 +4,8 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 
 ## My Stacks
 
-### Main Programming Languages
-
-
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+### Main Programming Language
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Stacks Learned
 
@@ -26,7 +19,6 @@ My name is AJ, and I'm an aspiring data scientist in the IoT field. I'm passiona
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 
 ## My Stats
 
